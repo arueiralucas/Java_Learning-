@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Matrizes {
+public class Atividade1q5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
