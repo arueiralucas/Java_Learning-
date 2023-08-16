@@ -11,3 +11,4 @@ public class TesteRetangulo {
         System.out.println(diagonal);
     }
 }
+
